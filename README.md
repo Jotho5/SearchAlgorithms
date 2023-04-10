@@ -6,7 +6,8 @@ This is a JavaScript program that allows users to search for a target element wi
 
 ## Dependencies
 
-This program uses the `readline-sync` package to read user input from the command line. To install this package, run the following command: npm install readline-sync
+This program uses the `readline-sync` package to read user input from the command line. To install this package, run the following command: 
+```npm install readline-sync```
 
 
 ## Functionality
