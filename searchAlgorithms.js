@@ -1,6 +1,3 @@
-//John Thomas
-//CSCI 651 Binary v. Linear Search
-//Due Date: April 14th 
 // This is responsible for retrieving the users array input
 const readline = require('readline-sync');
 const array = readline.question('Enter your elements for the list (comma-separated): ').split(',').map(num => parseInt(num.trim()));
